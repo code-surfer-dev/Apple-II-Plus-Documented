@@ -17,4 +17,5 @@ will link sources wherever possible.
 # 6502 Microprocessor
 
 The _Apple II plus_ microcomputer uses a 6502 microprocessor as it's **Central
-Processing Unit (CPU)**.
+Processing Unit (CPU)**. The Apple II plus's CPU is clocked at 1 MHz, which
+means there is a clock cycle every microsecond, or one millionth of a second.
